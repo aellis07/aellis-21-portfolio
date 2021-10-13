@@ -74,6 +74,7 @@ main section {
   width: 49%;
 }
 
+/* Added flex function to the work section as well as a transition effect */
 .larger,
 .normal {
   display: flex;
