@@ -113,6 +113,7 @@ main section {
   border-width: 1px;
 }
 
+/* Hover function added to work section images */
 .larger:hover img,
 .normal:hover img {
   background-color: burlywood;
@@ -125,6 +126,7 @@ main section {
   transform: scale(1.1);
 }
 
+/* Used @media rule to ensure quality apperance on all devices  */
 @media screen and (max-width: 500px) {
   .larger,
   .normal {
@@ -134,11 +136,13 @@ main section {
 
 /* CONTACT */
 
+/* Centered the contact information and applied flex to it */
 section ul {
   margin: auto;
   text-align: center;
 }
 
+/* added  */
 section li {
   display: flex;
   display: inline;
