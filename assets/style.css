@@ -85,6 +85,7 @@ main section {
   transition: all 0.2s ease-in-out;
 }
 
+/* added caption for work section images */
 .caption {
   position: absolute;
   bottom: 80px;
