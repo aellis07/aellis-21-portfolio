@@ -1,0 +1,67 @@
+html {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+}
+
+.images {
+  margin-bottom: 10px;
+  /* border-radius: 3px;
+  border: 2px;
+  border-style: solid;
+  border-color: red; */
+  box-shadow: 9px 6px 21px 2px rgba(0, 0, 0, 0.83);
+}
+
+.margin-list {
+  margin-bottom: 50px;
+}
+
+.row {
+  margin: 5px;
+}
+
+h3 {
+  color: aliceblue;
+}
+h4 {
+  color: #c0bfd7;
+  margin-top: 10px;
+  opacity: 0.5;
+}
+/* #about-me {
+  padding-right: 50px;
+} */
+.contact {
+  padding-right: 50px;
+  background-color: white;
+  border: 1px;
+  border-style: solid;
+  margin-right: 75px;
+}
+
+#about-me-text {
+  color: aliceblue;
+  opacity: 0.5;
+  padding-top: 10px;
+  padding-right: 5px;
+}
+
+.option {
+  margin-top: 10px;
+  margin-right: 20px;
+}
+
+.aside {
+  margin-right: 5 px;
+}
+
+.list-group-item:hover {
+  box-shadow: 9px 6px 21px 2px rgba(0, 0, 0, 0.83);
+}
+
+.standout {
+  margin-left: -25px;
+}
